@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FigureForms.Figure">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="FigureForms.Figure.Circle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Figure.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="FigureForms.Figure.Figures" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Figure.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="FigureForms.Figure.Rectangle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Figure.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="FigureForms.Figure.Triangle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Figure.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
